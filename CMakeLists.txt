@@ -6,3 +6,6 @@ set(CMAKE_CXX_STANDARD_REQUIRED True)
 
 add_executable(my_executable main.cpp)
 
+# Ejecutable para el programa de Interes Compuesto (ic.cpp)
+add_executable(ic_executable ic.cpp)
+
